@@ -1,4 +1,2 @@
-# openrev #The Start
-![](/img/1.png)
 
-<p> Official Site</p>
+<p>Github / Pickatwu is temporary close
